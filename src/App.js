@@ -250,10 +250,10 @@ const App = ({ title }) => {
       <h1>{title}</h1>
       <h2>
         This is a demo to show the methods of Symmetry Perception and
-        Canonical SMILES
+        Canonical SMILES for molecules
       </h2>
       <p>
-        The details are described in the paper "A
+        The details can be found in the paper "A
         Computationally-Realizable Rigorous Canonical Numbering
         Algorithm for Chemical Graphs with its Open-Source
         Implementation in Rust". Welcome to check
